@@ -5,17 +5,18 @@ This project involves the analysis of a mock census dataset from an imaginary to
 ### About the Mock Census
 The provided mock census data has been generated using the Faker package in Python, designed to emulate the format of the 1881 UK census. The dataset includes the following fields:
 
-Street Number: Set to “1” if it is a unique dwelling.
-Street Name
-First Name of Occupant
-Surname of Occupant
-Age of Occupant
-Relationship to Head of Household: Any person over 18 who filled out the census details.
-Marital Status: Single, Married, Divorced, Widowed, or “NA” for minors.
-Gender: Male or Female (other responses were not implemented in 1881).
-Occupation: Implemented in a modern style.
-Infirmity: A limited set of infirmities following the style of 1881.
-Religion: A set of real-world religions.
+* Street Number: Set to “1” if it is a unique dwelling.
+* Street Name
+* First Name of Occupant
+* Surname of Occupant
+* Age of Occupant
+* Relationship to Head of Household: Any person over 18 who filled out the census details.
+* Marital Status: Single, Married, Divorced, Widowed, or “NA” for minors.
+* Gender: Male or Female (other responses were not implemented in 1881).
+* Occupation: Implemented in a modern style.
+* Infirmity: A limited set of infirmities following the style of 1881.
+* Religion: A set of real-world religions.
+
 ### Analysis
 The dataset was initially cleaned to rectify any missing entries and inaccuracies. This refined dataset was then subsequently used for various analyses to inform my decisions.
 ### Tasks
