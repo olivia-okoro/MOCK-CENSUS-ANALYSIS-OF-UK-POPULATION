@@ -2,7 +2,7 @@
 
 This project involves the analysis of a mock census dataset from an imaginary town. I am assuming the role of a local government team member responsible for making decisions on developing an unoccupied plot of land and determining investment priorities. This process involves cleaning and analyzing the provided mock census data.
 
-## About the Mock Census
+### About the Mock Census
 The provided mock census data has been generated using the Faker package in Python, designed to emulate the format of the 1881 UK census. The dataset includes the following fields:
 
 Street Number: Set to “1” if it is a unique dwelling.
